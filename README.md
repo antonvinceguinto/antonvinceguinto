@@ -2,7 +2,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/antonguinto?label=Follow)](https://twitter.com/antonguinto)
 
 ## About Me
-- :fire: I build web apps with Nextjs 
+- :fire: I build web apps with React 
 - ⚡ I'm currently working on a blockchain based project
 - 🌱 I’m currently learning Solidity
 - 💙 I build Flutter apps
