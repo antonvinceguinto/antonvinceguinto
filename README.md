@@ -5,7 +5,7 @@
 - :fire: I build web apps with React 
 - ⚡ I'm currently working on a blockchain based project
 - 🌱 I’m currently learning Solidity
-- 💙 I build Flutter apps
+- 💙 I build my mobile apps with Flutter
 - 👨‍💻 Deep diving into Nextjs, Solidity & Tailwind
 
 ## Technologies
