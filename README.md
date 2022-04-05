@@ -1,5 +1,10 @@
-### HOLA, HELLO, KAMUSTA 👋
+[![Anton's GitHub Banner](./GitHubHeader.png)](http:antonguinto.com)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/antonguinto?label=Follow)](https://twitter.com/antonguinto)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/guinto/)
+
+## HOLA, HELLO, KAMUSTA 👋
+I'm Anton, a web developer mainly using react js as my preferred framework. I love exploring new technologies, that's why I am now deep diving into web3 and also improving my typescript skills.
 
 ## About Me
 - :fire: I build web apps with React 
@@ -8,8 +13,12 @@
 - 💙 I build my mobile apps with Flutter
 - 👨‍💻 Deep diving into Nextjs, Solidity & Tailwind
 
-## Technologies
+## &#x1f4c8; GitHub Stats
+[![Antonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonvinceguinto&hide=contribs)](https://github.com/antonvinceguinto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonvinceguinto&hide=dart)](https://github.com/antonvinceguinto/github-readme-stats)
 
+
+## Technologies
 ### My web tech stack
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
