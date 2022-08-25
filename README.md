@@ -4,13 +4,13 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/guinto/)
 
 ## HOLA, HELLO, KAMUSTA 👋
-I'm Anton, a web developer mainly using react js as my preferred framework. I love exploring new technologies, that's why I am now deep diving into web3 and also improving my typescript skills.
+I'm Anton, a mobile app developer mainly using Flutter as my preferred framework, I hone my web skills in my free time including diving into Web3. I love exploring new technologies, that's why I am now deep diving into web3/blockchain technology.
 
 ## About Me
+- 💙 I build my mobile apps with Flutter
 - :fire: I build web apps with React 
 - ⚡ I'm currently working on a blockchain based project
 - 🌱 I’m currently learning Solidity
-- 💙 I build my mobile apps with Flutter
 - 👨‍💻 Deep diving into Nextjs, Solidity & Tailwind
 
 ## &#x1f4c8; GitHub Stats
