@@ -3,8 +3,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/antonguinto?label=Follow)](https://twitter.com/antonguinto)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/guinto/)
 
-## HOLA, HELLO, KAMUSTA 👋
-I'm Anton, a mobile app developer mainly using Flutter as my preferred framework, I hone my web skills in my free time including diving into Web3. I love exploring new technologies, that's why I am now deep diving into web3/blockchain technology.
+## KIA ORA, HELLO, KAMUSTA 👋
+I develop mobile apps using Flutter and websites using NextJS. I have shipped several digital products for my clients and previous companies I have worked with. Im also deep diving into Web3 development and enjoying the journey so far.
 
 ## About Me
 - 💙 I build my mobile apps with Flutter
@@ -12,11 +12,8 @@ I'm Anton, a mobile app developer mainly using Flutter as my preferred framework
 - ⚡ I'm currently working on a blockchain based project
 - 🌱 I’m currently learning Solidity
 - 👨‍💻 Deep diving into Nextjs, Solidity & Tailwind
-
-## &#x1f4c8; GitHub Stats
-[![Antonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonvinceguinto&hide=contribs)](https://github.com/antonvinceguinto/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonvinceguinto&hide=dart)](https://github.com/antonvinceguinto/github-readme-stats)
-
+- 👾 [Playstore Developer Page](https://play.google.com/store/apps/dev?id=6591320921243949726)
+- 🍎 Apple Developer Page (Soon)
 
 ## Technologies
 ### My web tech stack
@@ -33,4 +30,5 @@ I'm Anton, a mobile app developer mainly using Flutter as my preferred framework
 ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
+##
 📫 Reach me @: **antonvinceguinto@gmail.com**
