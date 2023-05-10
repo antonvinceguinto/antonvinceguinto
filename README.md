@@ -13,7 +13,7 @@ I develop mobile apps using Flutter and websites using NextJS. I have shipped se
 - 🌱 I’m currently learning Solidity
 - 👨‍💻 Deep diving into Nextjs, Solidity & Tailwind
 - 👾 [Playstore Developer Page](https://play.google.com/store/apps/dev?id=6591320921243949726)
-- 🍎 Apple Developer Page (Soon)
+- 🍎 [Apple Developer Page](https://apps.apple.com/nz/developer/anton-vince-guinto/id1664671752)
 
 ## Technologies
 ### My web tech stack
