@@ -12,9 +12,12 @@ I develop mobile apps using Flutter and websites using NextJS. I have shipped se
 - ⚡ I'm currently working on a blockchain based project
 - 🌱 I’m currently learning Solidity
 - 👨‍💻 Deep diving into Nextjs, Solidity & Tailwind
-- 👾 [Playstore Developer Page](https://play.google.com/store/apps/dev?id=9125008806743138219)
-- 🍎 [Apple Developer Page](https://apps.apple.com/nz/developer/anton-vince-guinto/id1664671752)
 
+## Check out my works
+- https://antonguinto.com/
+- https://tonbeans.com/
+- https://www.tonbeansstudio.com/
+  
 ## Technologies
 ### My web tech stack
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
