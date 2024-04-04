@@ -16,7 +16,7 @@ I develop mobile apps using Flutter and websites using NextJS. I have shipped se
 ## Check out my works
 - https://antonguinto.com/
 - https://tonbeans.com/
-- https://www.tonbeansstudio.com/
+- https://tonbeansstudio.com/
   
 ## Technologies
 ### My web tech stack
