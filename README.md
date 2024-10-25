@@ -4,14 +4,11 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/guinto/)
 
 ## KIA ORA, HELLO, KAMUSTA 👋
-I develop mobile apps using Flutter and websites using NextJS. I have shipped several digital products for my clients and previous companies I have worked with. Im also deep diving into Web3 development and enjoying the journey so far.
+I mainly develop mobile apps using Flutter and I enjoy building other cool stuff.
 
 ## About Me
 - 💙 I build my mobile apps with Flutter
-- :fire: I build web apps with React 
-- ⚡ I'm currently working on a blockchain based project
-- 🌱 I’m currently learning Solidity
-- 👨‍💻 Deep diving into Nextjs, Solidity & Tailwind
+- 🎮 I build small games using Unity
 
 ## Check out my works
 - https://antonguinto.com/
