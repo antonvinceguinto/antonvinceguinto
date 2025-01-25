@@ -4,11 +4,13 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/guinto/)
 
 ## KIA ORA, HELLO, KAMUSTA 👋
-I mainly develop mobile apps using Flutter and I enjoy building other cool stuff.
+I mainly develop mobile apps using Flutter and I enjoy building other cool stuff. 
+I love new tech, I'm deep diving into AI, ML, LLMs.
 
 ## About Me
 - 💙 I build my mobile apps with Flutter
 - 🎮 I build small games using Unity
+- 🧠 Teaching myself AI & ML
 
 ## Check out my works
 - https://antonguinto.com/
