@@ -13,9 +13,7 @@ I love new tech, I'm deep diving into AI, ML, LLMs.
 - 🧠 Teaching myself AI & ML
 
 ## Check out my works
-- https://antonguinto.com/
-- https://tonbeans.com/
-- https://tonbeansstudio.com/
+- https://guinto.co.nz/
   
 ## Technologies
 ### My web tech stack
@@ -33,4 +31,4 @@ I love new tech, I'm deep diving into AI, ML, LLMs.
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 ##
-📫 Reach me @: **antonvinceguinto@gmail.com**
+📫 Reach me @: **hello@guinto.co.nz/**
