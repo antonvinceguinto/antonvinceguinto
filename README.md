@@ -31,4 +31,4 @@ I love new tech, I'm deep diving into AI, ML, LLMs.
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 ##
-📫 Reach me @: **hello@guinto.co.nz/**
+📫 Reach me @: **hello@guinto.co.nz**
